@@ -118,4 +118,4 @@ fetch('http://localhost:4000/api/producto/'+ id)
 .catch(err=>console.error(err))
 
 }
-//verProductoId("63cb640b136ec895e197daff");
+//verProductoId("63e969874380a6d20beb5211");
