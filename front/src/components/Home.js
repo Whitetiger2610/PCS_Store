@@ -25,7 +25,7 @@ export const Home = () => {
                     {/*Producto 1*/}
                     <div className='col-sm-12 col-md-6 col-lg-3 my-3'>
                         <div className='card p-3 rounded'>
-                            <img className='card-img-top mx-auto' src='./images/electrónicos-1.jpeg' alt="Productos electronicos"></img>
+                            <img className='card-img-top mx-auto' src='./images/electronicos.jpeg' alt="Productos electronicos"></img>
                             <div className='card-body d-flex flex-column'>
                                 <h5 id="titulo_producto"><a href='http://localhost:3000'>Productos Electronicos</a></h5>
                                 <div className='rating mt-auto'>
@@ -43,7 +43,7 @@ export const Home = () => {
                     {/*Producto 2*/}
                     <div className='col-sm-12 col-md-6 col-lg-3 my-3'>
                         <div className='card p-3 rounded'>
-                            <img className='card-img-top mx-auto' src='./images/audifonos bt.png' alt="Audifonos"></img>
+                            <img className='card-img-top mx-auto' src='./images/audifonosbt.png' alt="Audifonos"></img>
                             <div className='card-body d-flex flex-column'>
                                 <h5 id="titulo_producto"><a href='http://localhost:3000'>Audifonos</a></h5>
                                 <div className='rating mt-auto'>
@@ -61,7 +61,7 @@ export const Home = () => {
                     {/*Producto 3*/}
                     <div className='col-sm-12 col-md-6 col-lg-3 my-3'>
                         <div className='card p-3 rounded'>
-                            <img className='card-img-top mx-auto' src='./images/zapatilla pez.jpg' alt="Pez"></img>
+                            <img className='card-img-top mx-auto' src='./images/zapatillapez.jpg' alt="Pez"></img>
                             <div className='card-body d-flex flex-column'>
                                 <h5 id="titulo_producto"><a href='http://localhost:3000'>Zapatilla Pez</a></h5>
                                 <div className='rating mt-auto'>
@@ -79,7 +79,7 @@ export const Home = () => {
                     {/*Producto 4*/}
                     <div className='col-sm-12 col-md-6 col-lg-3 my-3'>
                         <div className='card p-3 rounded'>
-                            <img className='card-img-top mx-auto' src='./images/xiaomi-samrt-wtach-702x1024.jpeg' alt="Watch"></img>
+                            <img className='card-img-top mx-auto' src='./images/smartw.jpeg' alt="Watch"></img>
                             <div className='card-body d-flex flex-column'>
                                 <h5 id="titulo_producto"><a href='http://localhost:3000'>Smart Watch</a></h5>
                                 <div className='rating mt-auto'>
